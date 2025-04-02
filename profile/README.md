@@ -14,6 +14,9 @@ metricminer is an R package and template dashboard that helps you mine metrics o
 - [Get started with metricminer here](https://www.metricminer.org/)
 - Manuscript coming soon!
 
+## Questions? 
+If you have questions, suggestions, or comments: create a Github discussion here https://github.com/orgs/ottrproject/discussions
+
 ## How to contribute 
 
 [See the contributing guide here](https://github.com/ottrproject/.github/blob/main/CONTRIBUTING.md)
