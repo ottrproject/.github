@@ -42,6 +42,7 @@ The [ottrpal repository](https://github.com/jhudsl/ottrpal) is a non-user facing
 
 #### cow
 
+**cow is being deprecated as of April 2025 -- all pertinent functionality has been absorbed by the `ottrpal` R package ** 
 The [cow repository](https://github.com/jhudsl/cow) isn't officially an OTTR repository, but is a GitHub API wrapper in R which has additional functions to help wrangle GitHub published courses like OTTR courses. Future work will incorporate the functionality from this repository into the non-user facing OTTR ecosystem.
 
 ### OTTR Quarto Templates
