@@ -8,6 +8,9 @@ The [Contributor Covenant Code of Conduct can be found here](https://github.com/
 
 Open-source Tools for Training Resources (OTTR) are a set of GitHub repositories designed to offer efficiency and flexibility in creating and maintaining training resources for courses and informatics tools. Below different repositories and resources that part of the OTTR universe are listed with brief explanations of what they do. The repositories and resources are split between "Functionality" and "Documentation" where the "Functionality" section focuses on the repositories or code that make OTTR functional; and the "Documentation" section focuses on the resources that explain how to use and maintain OTTR.
 
+<img width="876" alt="Screenshot 2025-04-04 at 9 25 44 AM" src="https://github.com/user-attachments/assets/2c4d7ed7-827a-4809-9895-634b62b4e80a" />
+
+
 ### Functionality
 #### OTTR_Template
 
@@ -24,6 +27,10 @@ The [OTTR_Template_Website repository](https://github.com/jhudsl/OTTR_Template_W
 #### ottr-reports
 
 The [ottr-reports repository](https://github.com/jhudsl/ottr-reports) is a non-user facing repository that houses the functionality for running and reporting the results of the GitHub Action checks on spelling, URLs, and quiz formatting.
+
+#### ottr-previews
+
+The [ottr-previews repository](https://github.com/jhudsl/ottr-previews) is another non-user facing repository that houses the functionality for creating previews of websites and courses as a published GitHub Action. 
 
 #### ottr-docker
 
